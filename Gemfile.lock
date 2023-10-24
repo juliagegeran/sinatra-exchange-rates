@@ -55,6 +55,7 @@ GEM
       oj (~> 3.13.12)
       rake (~> 13)
     hashdiff (1.0.1)
+    htmlbeautifier (1.4.2)
     http (5.1.1)
       addressable (~> 2.8)
       http-cookie (~> 1.0)
@@ -165,6 +166,7 @@ DEPENDENCIES
   capybara
   draft_matchers
   grade_runner
+  htmlbeautifier
   http
   i18n
   pry
